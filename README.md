@@ -2,5 +2,6 @@ Convert an Evernote ENEX file with tags that include spaces and/or colons to be 
 
 To run:
 Download ethernet_tag_converter.py
-Then
-''''python3 ethernet_tag_converter.py /path/to/yourfile.enex
+
+Then:
+python3 ethernet_tag_converter.py /path/to/yourfile.enex
