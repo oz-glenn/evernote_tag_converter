@@ -5,3 +5,5 @@ Download ethernet_tag_converter.py
 
 Then:
 python3 ethernet_tag_converter.py /path/to/yourfile.enex
+
+Will Teedyise the tags and save them in Output.enex
