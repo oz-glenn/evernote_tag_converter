@@ -6,4 +6,4 @@ Download ethernet_tag_converter.py
 Then:
 python3 ethernet_tag_converter.py /path/to/yourfile.enex
 
-Will Teedyise the tags and save them in Output.enex
+Will Teedyise the tags and save the notes with revised Teedy compliant tags in Output.enex
